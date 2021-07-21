@@ -1,2 +1,2 @@
 # Car-Price-Prediction
-Predict car price using MLR model
+Predicted car price using MLR model
